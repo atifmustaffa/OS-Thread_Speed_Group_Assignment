@@ -1,4 +1,4 @@
-# IUM-CSC3401-OS-Thread_Speed_Group_Assignment
+# IIUM-CSC3401-OS-Thread_Speed_Group_Assignment
 Operating System Group Assignment
 
 Title:Multithreading
